@@ -9,6 +9,7 @@
     -webkit-font-smoothing: antialiased;
 }
 
+/* Typography  */
 h1 {
     color: #2AB3B1;
     font-size: 1.25rem;
@@ -25,12 +26,7 @@ h2 {
     line-height: 1.32rem;
 }
 
-p.bright {
-    color: #C0DF33;
-    font-size: .94rem;
-    letter-spacing: -.19px;
-    line-height: 1.25rem;
-}
+
 
 body {
     background-color: #E6EFF5;
@@ -46,6 +42,26 @@ main {
     overflow: hidden;
 }
 
+.join {
+    margin: 1.75rem 1.5rem 
+    
+}
+
+.join p{
+    color: #9AA7BE;
+    letter-spacing: -.17px;
+    line-height: 1.62rem;
+}
+
+p.bright {
+    color: #C0DF33;
+    font-size: .94rem;
+    font-weight: 700;
+    letter-spacing: -.19px;
+    line-height: 1.25rem;
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+}
 
 
 @media only screen and (min-width: 768px) {
