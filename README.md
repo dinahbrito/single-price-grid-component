@@ -2,7 +2,7 @@
 ![](./images/screenshot.jpg)
 
 ## The challenge
-The challenge is to build out this landing page and get it looking as close to the design as possible.
+The challenge is to build out this pricing component and get it looking as close to the design as possible.
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
